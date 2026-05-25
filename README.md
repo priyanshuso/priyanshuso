@@ -2,7 +2,7 @@
 <h3 align="center">🚀 B.Tech Student | Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Enthusiast;IoT+Project+Builder;Power+BI+Learner;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+analytics;DSA+Enthusiast;IoT+Project+Builder;Power+BI+Learner;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
