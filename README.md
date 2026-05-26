@@ -79,7 +79,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img src="https://streak-stats.demolab.com?user=priyanshuso&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@
 # 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuso&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@
 # 🏅 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshuso&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
