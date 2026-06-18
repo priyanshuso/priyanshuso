@@ -108,6 +108,6 @@ I’m a Passionate Data Science student and Analytics enthusiast pursuing a B.Te
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
   
   <br />
-  <sub>Built with love , Python, and Data Insights by <b>Data AnalystPriyanshu Soni </b></sub>
+  <sub>Built with love , Python, and Data Insights by <b>Data Analyst Priyanshu Soni </b></sub>
 </div>
 
