@@ -65,7 +65,7 @@ I’m a Passionate Data Science student and Analytics enthusiast pursuing a B.Te
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **📰 Fake News Detection System** | Developed an NLP-powered machine learning model to classify news articles as genuine or fake. Implemented text preprocessing, feature extraction, and predictive analytics for accurate detection. | `Python` `NLP` `Machine Learning` `Scikit-Learn` `Pandas` `NumPy` |
+| **📰  Fake News Detection System** | Developed an NLP-powered machine learning model to classify news articles as genuine or fake. Implemented text preprocessing, feature extraction, and predictive analytics for accurate detection. | `Python` `NLP` `Machine Learning` `Scikit-Learn` `Pandas` `NumPy` |
 | **🚑 Medi Alter** | An intelligent accident detection and emergency alert system that identifies crashes in real-time and automatically sends emergency messages and calls with GPS coordinates to predefined contacts. | `Arduino` `ADXL345` `GPS Neo-6M` `SIM800L GSM` `IoT` `Embedded Systems` |
 | **📊 Business Intelligence Dashboard** | Designed and developed interactive Power BI dashboards to analyze sales, HR, product performance, and business KPIs. Implemented data cleaning, transformation, visualization, and actionable insights for decision-making. | `Power BI` `Excel` `Data Analysis` `Data Visualization` `Business Intelligence` |
 ---
